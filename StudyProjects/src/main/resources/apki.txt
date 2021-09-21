@@ -1,0 +1,9 @@
+1. Odgadywanie losowej liczby                   https://www.youtube.com/watch?v=woJFbdv5cXw
+2. Kamień, papier, nożyce
+3. Przeliczanie jednostek
+4. Liczbie słów/znaków/liter w tekście
+5. Zapisywanie zawartości katalogu do pliku nazwa plików/katalogów data utworzenia atrybuty
+6. Quiz milionerzy
+7. Rozliczanie wydatków
+8. Tracker wydatków
+9. TO DO
